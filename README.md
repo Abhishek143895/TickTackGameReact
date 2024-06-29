@@ -1,73 +1,45 @@
-# Getting Started with Create React App
+# Tic-Tac-Toe Challenge: Play, Compete, Conquer!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+https://github.com/Abhishek143895/TickTackGameReact/assets/80271185/6b30db6c-fa7f-4047-9387-ca1a443ea5ae
 
-In the project directory, you can run:
 
-#Deployed l Link - https://inspiring-stardust-ea2230.netlify.app/
+## Overview
 
-### `npm start`
+Experience the timeless fun of Tic-Tac-Toe with a modern twist, crafted using React, JSX, and CSS! Play against friends in this sleek, intuitive rendition of the beloved game. With its sleek design and open in desktop mode, Tic-Tac-Toe is your ultimate destination for endless entertainment. Join the fun and conquer the board today!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Interactive Gameplay: Enjoy a classic game of Tic-Tac-Toe with an engaging and interactive interface.
 
-### `npm test`
+- Multiplayer Mode: Challenge your friends and see who can outsmart the other!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Responsive Design: Optimized for desktop mode to provide the best user experience.
 
-### `npm run build`
+- Sleek UI: Clean and modern design for an immersive gaming experience.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Technologies Used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- React.js: JavaScript library for building user interfaces.
+  
+- JSX: Syntax extension for JavaScript used with React.
+  
+- JavaScript: Core programming language for game logic.
+  
+- CSS: Styling language for designing the game interface.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Functionality
 
-### `npm run eject`
+- Real-Time Interaction: Players can take turns to place their marks (X or O) on the game board.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Win Detection: Automatically detects and announces the winner or a tie.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Restart Game: Option to restart the game after each round.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Author
+- This project is developed by @Abhishek Srivastava - https://www.abhishekfolio.online/
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Deployment
+Play the game now: Tic-Tac-Toe Challenge 
+- https://inspiring-stardust-ea2230.netlify.app/
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# Tick_Tack-_Toe_Game_react" 
